@@ -1,4 +1,4 @@
-name: ivm_python_workshop
+name: learning_python
 channels:
   - conda-forge
 dependencies:
