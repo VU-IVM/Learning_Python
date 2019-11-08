@@ -1,4 +1,4 @@
-# Python skills for research in Hydrology
+# Python skills for research in Hydrology/Climate science
 
 This repository contains a series of notebooks used in courses to introduce scientific Python to Hydrology students at the Vrije Universiteit Amsterdam. This series includes notebooks on basic Python skills, working with spatial data and time series analysis and has been created by Sem Vijverberg and Timothy Tiggeloven.
 
