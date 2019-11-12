@@ -17,8 +17,8 @@ When opening your terminal, you can now use 'conda' functionality manage your Py
 Next, open the terminal and create a new conda environment. The environment_local.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed anaconda, type the following in you terminal
 `conda env create -f environment_local.yml`. 
 
-We have named the environment 'ivm_github'. Activate the conda environment by typing:
-'conda activate ivm_github'
+We have named the environment 'hydrology'. Activate the conda environment by typing:
+'conda activate hydrology'
 
 After installation, download the repository from Github, open the terminal and go to the folder that you downloaded, then type (and wait a few seconds, the notebook will launch in your internet browser):
 'jupyter notebook'
