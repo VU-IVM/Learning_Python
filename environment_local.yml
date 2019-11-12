@@ -1,4 +1,4 @@
-name: ivm_github
+name: hydrology
 channels:
   - conda-forge
 dependencies:
