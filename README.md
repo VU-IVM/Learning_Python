@@ -5,7 +5,7 @@ This repository contains a series of notebooks used in courses to introduce scie
 # Run
 
 To run the notebooks **in the cloud** using Binder(https://mybinder.org) click on this badge:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VU-IVM/CHP_daisy_world/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VU-IVM/Learning_Python.git/master)
 
 # Install Python
 To run the notebooks **locally** you need to have python installed. We strongly recommend to install Python rather sooner then later. The whole procedure should take around 15-20 minutes. To install Python, we advice to use a Minicoda(https://docs.conda.io/en/latest/miniconda.html) distribution. Install the Python 3.7 64 bit for your OS (MACOSX or Windows). 
