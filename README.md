@@ -14,8 +14,8 @@ When opening your terminal, you can now use 'conda' functionality manage your Py
 - Mac has a terminal by default, you can open via spotlight (cmd+space) and then type terminal, press enter. 
 - For Windows you will need to install the terminal first, with [this Youtube movie](https://www.youtube.com/watch?v=mByMbtyew_E), you can simultaneously have small dance (also recommended) while installing the terminal. 
 
-Next, open the terminal and create a new conda environment. The environment.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed anaconda, type the following in you terminal
-`conda env create -f environment.yml`. 
+Next, open the terminal and create a new conda environment. The environment_local.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed anaconda, type the following in you terminal
+`conda env create -f environment_local.yml`. 
 
 We have named the environment 'ivm_github'. Activate the conda environment by typing:
 'conda activate ivm_github'
