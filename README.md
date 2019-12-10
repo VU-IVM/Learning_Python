@@ -23,4 +23,6 @@ We have named the environment 'hydrology'. Activate the conda environment by typ
 After installation, download the repository from Github, open the terminal and go to the folder that you downloaded, then type (and wait a few seconds, the notebook will launch in your internet browser):
 'jupyter notebook'
 
+If you wnat to know more about how to install or update packages, you can take a look at the following site: https://www.marsja.se/learn-all-about-installing-updating-packages-in-python/
+
 
