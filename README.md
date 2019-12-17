@@ -12,7 +12,7 @@ To run the notebooks **locally** you need to have python installed. We strongly 
 When opening your terminal, you can now use 'conda' functionality manage your Python installation (creating environments and installing packages). 
 
 - Mac has a terminal by default, you can open via spotlight (cmd+space) and then type terminal, press enter. 
-- For Windows installing miniconda will come with a small programm called Anaconda promt. In this prompt you are able to use the conda commands.
+- For Windows installing miniconda will come with a small programm called Anaconda prompt. In this prompt you are able to use the conda commands.
 
 Next, open the terminal and create a new conda environment. The environment_local.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed anaconda, type the following in you terminal
 `conda env create -f environment_local.yml`. 
