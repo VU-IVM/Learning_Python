@@ -23,3 +23,5 @@ dependencies:
   - pysheds=0.2.6
   - mapclassify=2.1.1
   - descartes=1.1.0
+  - openpyxl=3.0.1
+  - ffmpeg=4.2
