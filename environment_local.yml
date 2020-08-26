@@ -30,3 +30,4 @@ dependencies:
   - scipy
   - statsmodels
   - scikit-learn
+  - spyder
