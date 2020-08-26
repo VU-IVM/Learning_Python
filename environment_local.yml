@@ -27,6 +27,6 @@ dependencies:
   - ffmpeg=4.2
   - tqdm=4.32.1
   - spyder-kernels
-  - scipy=1.4.1
-  - statsmodels=0.11.1
-  - scikit-learn=0.23.2
+  - scipy
+  - statsmodels
+  - scikit-learn
