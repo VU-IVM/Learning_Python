@@ -8,7 +8,7 @@ To run the notebooks **in the cloud** using Binder(https://mybinder.org) click o
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VU-IVM/Learning_Python.git/master)
 
 # Install Python on local computer
-To run the notebooks **locally** you need to have python installed. We strongly recommend to install Python rather sooner then later. The whole procedure should take around 15-20 minutes. To install Python, we advice to use a Minicoda(https://docs.conda.io/en/latest/miniconda.html) distribution. Install the Python 3.8 64 bit for your OS (MACOSX or Windows). 
+To run the notebooks **locally** you need to have python installed. We strongly recommend to install Python sooner then later. The whole procedure should take around 15-20 minutes. To install Python, we advice to use a Miniconda (https://docs.conda.io/en/latest/miniconda.html) distribution. Install the Python 3.8 64 bit for your OS (MACOSX or Windows). 
 When opening your terminal, you can now use 'conda' functionality manage your Python installation (creating environments and installing packages). 
 
 - Mac has a terminal by default, you can open via spotlight (cmd+space) and then type terminal, press enter. 
@@ -17,8 +17,8 @@ When opening your terminal, you can now use 'conda' functionality manage your Py
 Next, open the terminal and create a new conda environment. The environment_local.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed Miniconda, download this yml file, move to the directory where you downloaded the yml (use the command 'cd' for this), and type the following in you terminal
 `conda env create -f environment_local.yml`. 
 
-We have named the environment 'hydrology'. Activate the conda environment by typing:
-`conda activate hydrology`
+We have named the environment 'hydro'. Activate the conda environment by typing:
+`conda activate hydro`
 
 Next, to use the variable inspector extension for Jupyter Lab, type the following command in your terminal: `jupyter labextension install @lckr/jupyterlab_variableinspector`.
 This will allow you to right-click on cells (open variable inspector) and visually explore variables.
