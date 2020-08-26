@@ -26,7 +26,3 @@ dependencies:
   - openpyxl=3.0.1
   - ffmpeg=4.2
   - tqdm=4.32.1
-  - spyder-kernels
-  - scipy
-  - statsmodels
-  - scikit-learn
