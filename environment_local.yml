@@ -31,3 +31,4 @@ dependencies:
   - statsmodels
   - scikit-learn
   - spyder
+  - xlsxwriter
