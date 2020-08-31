@@ -32,4 +32,4 @@ If you want to know more about how to install or update packages, you can take a
 
 Additional notes: To open other user interface (such as spyder for example), the procedure is the same as for the jupyter lab, except that you hae to write `spyder`
 
-*In Macs, the terminal is already installed by default, so you should just search for this instead of conda terminal
+** In Macs, the terminal is already installed by default, so you should just search for this instead of conda terminal
