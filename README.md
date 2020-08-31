@@ -16,7 +16,7 @@ When opening your terminal, you can now use 'conda' functionality manage your Py
 - Mac has a terminal by default, you can open via spotlight (cmd+space) and then type terminal, press enter. 
 - For Windows installing miniconda will come with a small programm called Anaconda prompt. In this prompt you are able to use the conda commands.
 
-Next, open the terminal and create a new conda environment. The environment_local.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed Miniconda, download this yml file, move to the directory where you downloaded the yml (use the command 'cd' for this), and type the following in you terminal
+Next, open the terminal** and create a new conda environment. The environment_local.yml (likely) contains the packages that you will need for all the tutorials and practicums that you will do during your studies. After you installed Miniconda, download this yml file, move to the directory where you downloaded the yml (use the command 'cd' for this), and type the following in you terminal
 `conda env create -f environment_local.yml`. 
 
 We have named the environment 'hydro'. Activate the conda environment by typing:
@@ -32,4 +32,4 @@ If you want to know more about how to install or update packages, you can take a
 
 Additional notes: To open other user interface (such as spyder for example), the procedure is the same as for the jupyter lab, except that you hae to write `spyder`
 
--In Macs, the terminal is already installed by default, so you should just search for this instead of conda terminal
+*In Macs, the terminal is already installed by default, so you should just search for this instead of conda terminal
