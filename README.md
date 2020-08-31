@@ -30,4 +30,6 @@ After installation, download the repository from Github or the practicum documen
 
 If you want to know more about how to install or update packages, you can take a look at the following site: https://www.marsja.se/learn-all-about-installing-updating-packages-in-python/
 
+Additional notes: To open other user interface (such as spyder for example), the procedure is the same as for the jupyter lab, except that you hae to write `spyder`
 
+-In Macs, the terminal is already installed by default, so you should just search for this instead of conda terminal
