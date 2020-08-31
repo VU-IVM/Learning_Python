@@ -8,6 +8,8 @@ To run the notebooks **in the cloud** using Binder(https://mybinder.org) click o
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VU-IVM/Learning_Python.git/master)
 
 # Install Python on local computer
+To look at a tutorial video of the steps described below, click on the link here: https://video.vu.nl/media/1_wdgv3zl8 
+
 To run the notebooks **locally** you need to have python installed. We strongly recommend to install Python sooner then later. The whole procedure should take around 15-20 minutes. To install Python, we advice to use a Miniconda (https://docs.conda.io/en/latest/miniconda.html) distribution. Install the Python 3.8 64 bit for your OS (MACOSX or Windows). 
 When opening your terminal, you can now use 'conda' functionality manage your Python installation (creating environments and installing packages). 
 
