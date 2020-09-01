@@ -32,3 +32,4 @@ dependencies:
   - scikit-learn
   - spyder
   - xlsxwriter
+  - xlrd
