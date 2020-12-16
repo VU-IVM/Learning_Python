@@ -33,3 +33,5 @@ dependencies:
   - spyder
   - xlsxwriter
   - xlrd
+  - mplcursors
+  - panel
