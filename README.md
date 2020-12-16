@@ -36,13 +36,13 @@ We have named the environment 'hydro'. Activate the conda environment by typing:
 
 Next, to use the variable inspector extension for Jupyter Lab, type the following command in your terminal: `jupyter labextension install @lckr/jupyterlab_variableinspector`.
 This will allow you to right-click on cells (open variable inspector) and visually explore variables.
-For Hydrology students during the Integrated Modelling course we also need the following lab extension: `jupyter labextension install @pyviz/jupyterlab_pyviz`
+For Hydrology students during the Integrated Modelling course we also need the following lab extension: `jupyter labextension install @pyviz/jupyterlab_pyviz`. With this extension we are able to use functions that allow us to exlpore and visualize our data in a neat way.
 
 After installation, download the repository from Github or the practicum documents, open the terminal and go to the folder that you downloaded, then type (and wait a few seconds, the notebook will launch in your default internet browser):
 `jupyter lab`
 
 If you want to know more about how to install or update packages, you can take a look at the following site: https://www.marsja.se/learn-all-about-installing-updating-packages-in-python/
 
-Additional notes: To open other user interface (such as spyder for example), the procedure is the same as for the jupyter lab, except that you hae to write `spyder`
+Additional notes: To open other user interface (such as spyder for example), the procedure is the same as for the jupyter lab, except that you have to type `spyder`
 
 ** In Macs, the terminal is already installed by default, so you should just search for this instead of conda terminal
