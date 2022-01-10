@@ -1,9 +1,9 @@
-name: hydro
+name: hydromaster
 channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - jupyterlab=2.2.9
+  - jupyterlab
   - nodejs
   - numpy
   - matplotlib
@@ -33,5 +33,6 @@ dependencies:
   - spyder
   - xlsxwriter
   - xlrd
+  - jupyterlab-variableinspector
   - mplcursors
   - panel
