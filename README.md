@@ -32,15 +32,12 @@ Next, open the terminal** and create a new conda environment. The environment_lo
 `conda env create -f environment_local.yml`. 
 
 We have named the environment 'hydro'. Activate the conda environment by typing:
-`conda activate hydro`
-
-Next, to use the variable inspector extension for Jupyter Lab, type the following command in your terminal: `jupyter labextension install @lckr/jupyterlab_variableinspector`.
-This will allow you to right-click on cells (open variable inspector) and visually explore variables.
-For Hydrology students during the Integrated Modelling course we also need the following lab extension: `jupyter labextension install @pyviz/jupyterlab_pyviz`. With this extension we are able to use functions that allow us to exlpore and visualize our data in a neat way.
-Installing the extensions may take a while.
+`conda activate hydromaster`
 
 After installation, download the repository from Github or the practicum documents, open the terminal and go to the folder that you downloaded, then type (and wait a few seconds, the notebook will launch in your default internet browser):
 `jupyter lab`
+
+Next, to use the variable inspector extension for Jupyter Lab, right-click on cells (open variable inspector) and visually explore variables.
 
 If you want to know more about how to install or update packages, you can take a look at the following site: https://www.marsja.se/learn-all-about-installing-updating-packages-in-python/
 
