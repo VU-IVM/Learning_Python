@@ -25,8 +25,8 @@ First, python needs to be installed and we will use Miniconda to manage our pack
 To look at a tutorial video of the steps described below, click on the link here: https://video.vu.nl/media/1_wdgv3zl8 (the video explains the procedure only for a windows computer system).
 To run the notebooks locally you need to have python installed. We strongly recommend to install Python sooner then later. The whole procedure should take around 15-20 minutes. To install Python, we advice to use a Miniconda (https://docs.conda.io/en/latest/miniconda.html) distribution. We need the Python 3.8 version, so you’ll have to scroll down to the older versions of the installer.
 
--      For windows download Python 3.8 Miniconda3 Windows 64-bit
--      For macOS download Python 3.8 Miniconda3 macOS Intel / Apple M1 ARM 64-bit pkg (not bash!). If you need Intel or Apple M1 ARM depends on the chip. Newer laptops will have an Apple M1 chip. You can check which chip is used by your laptop by clicking on the apple logo in the top left of the screen > About this Mac. Under chip it says either M1 or Intel.
+- For windows download Python 3.8 Miniconda3 Windows 64-bit
+- For macOS download Python 3.8 Miniconda3 macOS Intel / Apple M1 ARM 64-bit pkg (not bash!). If you need Intel or Apple M1 ARM depends on the chip. Newer laptops will have an Apple M1 chip. You can check which chip is used by your laptop by clicking on the apple logo in the top left of the screen > About this Mac. Under chip it says either M1 or Intel.
 
 When opening your terminal, you can now use 'conda' functionality manage your Python installation (creating environments and installing packages). 
 
