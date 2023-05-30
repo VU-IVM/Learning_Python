@@ -1,10 +1,10 @@
 name: hydromaster
 channels:
-  - defaults
   - conda-forge
+  - defaults
   - nodefaults
 dependencies:
-  - python=3.8.13
+  - python=3.11
   - spyder
   - jupyter
   - nodejs
