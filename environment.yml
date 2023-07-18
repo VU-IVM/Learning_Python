@@ -38,5 +38,7 @@ dependencies:
   - pip:
     - pysheds 
     - damagescanner
+    - hydromt
+    - hydromt-sfincs
 
 prefix: ~/opt/miniconda3/envs/hydromaster
